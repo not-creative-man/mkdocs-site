@@ -1,0 +1,5 @@
+site_name: My MkDocs Site
+site_url: https://not-creative-man.github.io/mkdocs-site/
+theme:
+  name: material
+use_directory_urls: false
